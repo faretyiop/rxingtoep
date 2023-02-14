@@ -14,7 +14,7 @@ inbounds:
     wsSettings:
       path: qwe
   sniffing:
-    enabled: falso
+    enabled: false
     destOverride:
     - http
     - tls
